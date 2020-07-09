@@ -1,0 +1,9 @@
+nltk==3.5
+numpy==1.18.1
+pandas==1.0.3
+pt-core-news-sm==2.3.0
+regex==2020.6.8
+requests==2.23.0
+spacy==2.3.0
+telepot==12.7
+
