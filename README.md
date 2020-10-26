@@ -1,4 +1,4 @@
-# chatbot-utilizando-NLP-e-API
+# chatbot_utilizando_NLP_e_API
 Chatbot que pode ser acessado pelo Telegram ou terminal, com o objetivo de retornar a previsão do tempo. <br>
 A construção do código está explicada [nesse artigo](https://medium.com/@marianamannes/desenvolvendo-um-chatbot-utilizando-python-nlp-e-api-para-previs%C3%B5es-de-tempo-62e5fc902145).
 
