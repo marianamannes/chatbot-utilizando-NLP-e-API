@@ -2,7 +2,7 @@
 Chatbot que pode ser acessado pelo Telegram ou terminal, com o objetivo de retornar a previsão do tempo. <br>
 A construção do código está explicada [nesse artigo](https://medium.com/@marianamannes/desenvolvendo-um-chatbot-utilizando-python-nlp-e-api-para-previs%C3%B5es-de-tempo-62e5fc902145).
 
-## Pré requisitos
+## Pré-requisitos
 - Python 3
 - Bibliotecas em <b>requirements.txt</b>
 - Token para API do [OpenWeatherMap](https://openweathermap.org/api)
